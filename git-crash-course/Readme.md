@@ -9,7 +9,7 @@ mkdir /workspaces/tmp/new-project
 cd /workspaces/tmp/new-project
 git init
 touch Readme.md
-code Readme.md
+code Readme.md 
 git status
 git add Readme.md
 # makes changes to readme.md
