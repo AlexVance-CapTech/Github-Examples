@@ -8,8 +8,8 @@ If we wanted to create a git repo in a new project we' create the folder and the
 mkdir /workspaces/tmp/new-project
 cd /workspaces/tmp/new-project
 git init
-touch Readme.md
-code Readme.md
+touch Readme.md 
+code Readme.md  
 git status
 git add Readme.md
 # makes changes to readme.md
